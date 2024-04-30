@@ -17,6 +17,10 @@ body {
     position: relative;
 
 }
+.nav-title a{
+    text-decoration: none;
+    color: #fff;
+}
 
 .nav>.nav-header {
     display: inline;
