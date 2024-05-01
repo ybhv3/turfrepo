@@ -668,7 +668,7 @@ article p {
 
 .main_last {
     width: 100%;
-    min-height: 60vh;
+    min-height: 40vh;
     /* border: 2px solid red; */
     display: flex;
     justify-content: center;

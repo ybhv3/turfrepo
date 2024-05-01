@@ -194,7 +194,7 @@
   }
   .second_wrapper i:first-child{
     left: -22px;
-    display: none;
+    /* display: none; */
   }
   .second_wrapper i:last-child{
     right: -22px;
@@ -265,7 +265,7 @@
   }
   .card_buy {
     width: 300px;
-    height: 48vh;
+    height: 55vh;
     margin: 20px;
     background-color: rgb(25, 26, 28);
     border-radius: 8px;
@@ -344,7 +344,7 @@
   
   .main_last {
     width: 100%;
-    min-height: 60vh;
+    min-height: 40vh;
     /* border: 2px solid red; */
     display: flex;
     justify-content: center;
